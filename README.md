@@ -1,3 +1,0 @@
-# UdemyAngular
-Angular Denemeleri
-denenene
